@@ -2,18 +2,7 @@
 Hi, my name is Solmaz. I am a Software Developer who has a passion for coding. I completed my second master’s degree in Information Technology at Illinois Institute of Technology with a GPA of 4.0, in Chicago, IL.
 
 I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
-<hr>
-<p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
-<p align="center">
-    
-    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/" alt="Linkedin"></a>
-   
-    <a href="https://github.com/solmazsm" alt="GitHub"></a>
-    
-</p>
-  
-</p>
+
 
 <!--
 **solmazsm/solmazsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
