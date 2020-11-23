@@ -6,7 +6,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 <hr>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm&layout=compact)
 
 <hr>
 <p align="center">
