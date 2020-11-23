@@ -7,9 +7,9 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
     
-    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/" alt="Linkedin"><img src="https://github.com/solmazsm/solmazsm/blob/master/readme/linkedin.png"></a>
+    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/" alt="Linkedin"></a>
    
-    <a href="https://github.com/solmazsm" alt="GitHub"><img src="https://github.com/solmazsm/solmazsm/blob/master/readme/github.png"></a>
+    <a href="https://github.com/solmazsm" alt="GitHub"></a>
     
 </p>
   
