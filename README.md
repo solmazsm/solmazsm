@@ -7,6 +7,18 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
 
+
+<hr>
+<p align="center">
+  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+<p align="center">
+   
+    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/" alt="Linkedin"</a>
+    
+</p>
+  
+</p>
+
 <!--
 **solmazsm/solmazsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
