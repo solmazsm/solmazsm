@@ -18,9 +18,9 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
   [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/https://www.linkedin.com/in/solmaz-seyedmonir/"
+    link = "https://www.linkedin.com/in/solmaz-seyedmonir/"
 
-    
+    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/" title="title">link</a>
 </p>
   
 </p>
