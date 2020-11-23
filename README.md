@@ -2,7 +2,9 @@
 Hi, my name is Solmaz. I am a Software Developer who has a passion for coding. I completed my second master’s degree in Information Technology at Illinois Institute of Technology with a GPA of 4.0, in Chicago, IL.
 
 I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
+
 <hr>
+
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm)
 
