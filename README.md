@@ -9,13 +9,13 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm&layout=compact)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solmazsm&repo=develop)
 
-[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)]http://www.github.com/solmazsm
+
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
    
-   
+   [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)http://www.github.com/solmazsm]
     
 </p>
   
