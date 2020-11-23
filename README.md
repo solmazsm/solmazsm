@@ -15,7 +15,11 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
    
-   [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)http://www.github.com/solmazsm]
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/https://www.linkedin.com/in/solmaz-seyedmonir/"
+
     
 </p>
   
