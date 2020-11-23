@@ -3,6 +3,7 @@ Hi, my name is Solmaz. I am a Software Developer who has a passion for coding. I
 
 I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
 
+<hr>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
 
