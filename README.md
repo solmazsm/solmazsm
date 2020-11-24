@@ -20,7 +20,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
     icon_pack = "fa"
     link = "https://www.linkedin.com/in/solmaz-seyedmonir/"
 
-    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/" title="title">link</a>
+    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/">link</a>
 </p>
   
 </p>
