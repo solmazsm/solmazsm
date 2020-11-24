@@ -15,10 +15,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
    
-  [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "https://www.linkedin.com/in/solmaz-seyedmonir/"
+  <i class="ri-linkedin-fill"></i>
 
     <a href="https://www.linkedin.com/in/solmaz-seyedmonir/">link</a>
 </p>
