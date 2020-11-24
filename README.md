@@ -9,15 +9,15 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm&layout=compact)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solmazsm&repo=develop)
 
-<i class="ri-linkedin-fill"></i>
+
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
    
-  <i class="ri-linkedin-fill"></i>
 
-    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/">link</a>
+    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/">
+  <i class="ri-linkedin-fill"></i>link</a>
 </p>
   
 </p>
