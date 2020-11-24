@@ -1,5 +1,6 @@
 ### Hi there 👋
 Hi, my name is Solmaz. I am a Software Developer who has a passion for coding. I completed my second master’s degree in Information Technology at Illinois Institute of Technology with a GPA of 4.0, in Chicago, IL.
+<a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png"></a>
 
 I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
 
@@ -8,8 +9,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm&layout=compact)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solmazsm&repo=develop)
- <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png"></a>
-
+ 
 <hr>
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
