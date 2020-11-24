@@ -18,6 +18,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
    <a href="https://github.com/solmazsm" alt="GitHub"><img src="https://github.com/solmazsm/solmazsm/blob/main/github.png"></a>
   <a href="https://www.youtube.com/channel/UCDl6AuRGel1pU4MxvnLL2uw" alt="Youtube"><img src="https://github.com/solmazsm/solmazsm/blob/main/youtube.png"></a>
   <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/code-line.png"></a>
+ <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png" width="20" height="20"></a>
 </p>
   
 </p>
