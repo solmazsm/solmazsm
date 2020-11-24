@@ -14,7 +14,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 <p align="center">
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 <p align="center">
-   <a href="https://www.linkedin.com/in/solmaz-seyedmonir/"><i class="ri-linkedin-fill"></i></a>
+   <a href="https://www.linkedin.com/in/solmaz-seyedmonir/"><img src="https://github.com/solmazsm/solmazsm/blob/master/readme/linkedin.png"></i></a>
 </p>
   
 </p>
