@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png" width="50" height="50"></a>
-Hi, my name is Solmaz. I am a Software Developer who has a passion for coding. I completed my second master’s degree in Information Technology at Illinois Institute of Technology with a GPA of 4.0, in Chicago, IL.
+My name is Solmaz. I am a Software Developer who has a passion for coding. I completed my second master’s degree in Information Technology at Illinois Institute of Technology with a GPA of 4.0, in Chicago, IL.
 
 I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
 
