@@ -8,7 +8,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm&layout=compact)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solmazsm&repo=develop)
-
+ <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/code-line.png"></a>
 
 <hr>
 <p align="center">
@@ -17,7 +17,7 @@ I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experim
    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/"><img src="https://github.com/solmazsm/solmazsm/blob/main/linkedin.png"></a>
    <a href="https://github.com/solmazsm" alt="GitHub"><img src="https://github.com/solmazsm/solmazsm/blob/main/github.png"></a>
   <a href="https://www.youtube.com/channel/UCDl6AuRGel1pU4MxvnLL2uw" alt="Youtube"><img src="https://github.com/solmazsm/solmazsm/blob/main/youtube.png"></a>
-  <a href="https://solmazsm.github.io/develop/" alt="Youtube"><img src="https://github.com/solmazsm/solmazsm/blob/main/code-line.png"></a>
+  <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/code-line.png"></a>
 </p>
   
 </p>
