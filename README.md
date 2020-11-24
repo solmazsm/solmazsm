@@ -2,8 +2,9 @@
 <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png" width="50" height="50"></a>
 My name is Solmaz. I am a Software Developer who has a passion for coding. I completed my second master’s degree in Information Technology at Illinois Institute of Technology with a GPA of 4.0, in Chicago, IL.
 
-I am DevOps Engineer, CloudOps Engineer and Full stack Developer. I love experimenting with new technologies and building small projects.
-
+I am DevOps Engineer, Clouds Engineer and Full stack Developer based in Seattle, Washington. I love experimenting with new technologies and building small projects.
+My things were that I just loved doing software and learning new technologies.  I am a detailed oriented, fast paced, creative and committed engineer.
+🌱 I’m currently working on my blog.
 <hr>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
