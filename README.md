@@ -11,7 +11,7 @@ My things were that I just loved doing software and learning new technologies.  
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm&layout=compact)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=solmazsm&repo=develop)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asolmazsm&repo=readme)](https://github.com/solmazsm/readme)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asolmazsm&repo=github-readme-stats)](https://github.com/solmazsm/github-readme-stats)
 ![Visitor Count](https://profile-counter.glitch.me/{solmazsm}/count.svg)
  
 <hr>
