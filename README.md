@@ -9,7 +9,8 @@ My things were that I just loved doing software and learning new technologies.  
 <hr>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm&layout=compact)
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=jasongaylord&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
 ![Visitor Count](https://profile-counter.glitch.me/{solmazsm}/count.svg)
  
 <hr>
