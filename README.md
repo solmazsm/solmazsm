@@ -7,7 +7,7 @@ My things were that I just loved doing software and learning new technologies.  
  <a href="https://htmlsolmazseyedmonirsep2020.blogspot.com/" alt="Blog">🔭</a> I’m currently working on my blog. 🌱 I’m currently learning ML. 
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
+
 <hr>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm&layout=compact)
