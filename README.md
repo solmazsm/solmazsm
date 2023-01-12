@@ -6,12 +6,12 @@ I am DevOps Engineer, Clouds Engineer and Full stack Developer based in Seattle,
 My things were that I just loved doing software and learning new technologies.  I am a detailed oriented, fast paced, creative and committed engineer.
  <a href="https://htmlsolmazseyedmonirsep2020.blogspot.com/" alt="Blog">🔭</a> I’m currently working on my blog. 🌱 I’m currently learning ML. 
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=solmazsm)
 
 <hr>
 ![My github stats](https://github-readme-stats.vercel.app/api?username=solmazsm&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=solmazsm&layout=compact)
-![Github stats](https://github-readme-stats.vercel.app/api?username=solmazsm)
+
 ![Visitor Count](https://profile-counter.glitch.me/{solmazsm}/count.svg)
  
 <hr>
