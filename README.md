@@ -11,7 +11,8 @@ My things were that I just loved doing software and learning new technologies.  
 <hr>
 
 
-![Visitor Count](https://profile-counter.glitch.me/solmazsm/count.svg)
+![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsolmazsm%2Fvisits)
+
  
 <hr>
 <p align="center">
