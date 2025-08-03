@@ -11,7 +11,8 @@ My things were that I just loved doing software and learning new technologies.  
 <hr>
 
 
-![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fsolmazsm%2Fvisits)
+![Profile views](https://komarev.com/ghpvc/?username=solmazsm)
+
 
  
 <hr>
