@@ -2,7 +2,7 @@
 <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png" width="50" height="50"></a>
 My name is Solmaz. I am a PhD student in Computer Science at the University of Washington, with research interests in vector databases, approximate nearest neighbor search, dynamic indexing, artificial intelligence, and machine learning systems.
 
-I also have experience as a software developer, DevOps engineer, cloud engineer, and full-stack developer. I completed my second master’s degree in Information Technology at Illinois Institute of Technology in Chicago, Illinois, with a 4.0 GPA. I am based in Seattle, Washington, and enjoy building practical software systems, experimenting with emerging technologies, and developing efficient solutions for data-intensive applications.
+I also have experience as a software developer, DevOps engineer, cloud engineer, full-stack developer, and AI Research Fellow. My work spans software systems, cloud infrastructure, AI evaluation, vector search, and data-intensive applications.
 
  <a href="https://htmlsolmazseyedmonirsep2020.blogspot.com/" alt="Blog">
 
