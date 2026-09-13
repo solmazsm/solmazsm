@@ -7,7 +7,7 @@ I also have experience as a software developer, DevOps engineer, cloud engineer,
 
 <hr>
 
-```html
+
 <p align="center">
   <img src="https://img.shields.io/badge/PhD-University%20of%20Washington-4B2E83">
   <img src="https://img.shields.io/badge/Research-Vector%20Search-blue">
@@ -53,7 +53,7 @@ I also have experience as a software developer, DevOps engineer, cloud engineer,
     <img src="https://img.shields.io/badge/Blog-Visit-orange?logo=blogger&logoColor=white" alt="Blog">
   </a>
 </p>
-```
+
 
 
 
