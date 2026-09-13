@@ -7,16 +7,6 @@ I also have experience as a software developer, DevOps engineer, cloud engineer,
 
 <hr>
 
-
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=solmazsm) -->
-
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=solmazsm&style=flat-square)
- 
-<hr>
-
 <p align="center">
   <img src="https://img.shields.io/badge/PhD-University%20of%20Washington-4B2E83">
   <img src="https://img.shields.io/badge/Research-Vector%20Search-blue">
