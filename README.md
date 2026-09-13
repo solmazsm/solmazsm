@@ -1,3 +1,27 @@
+### Hi there 👋
+
+My name is Solmaz. I am a PhD student in Computer Science at the University of Washington, with research interests in vector databases, approximate nearest neighbor search, dynamic indexing, artificial intelligence, and machine learning systems.
+
+<p>
+  <img src="https://img.shields.io/badge/PhD-University%20of%20Washington-4B2E83">
+  <img src="https://img.shields.io/badge/Research-Vector%20Search-blue">
+  <img src="https://img.shields.io/badge/Research-Approximate%20Nearest%20Neighbor%20Search-blue">
+  <img src="https://img.shields.io/badge/Database-Vector%20Databases-green">
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-orange">
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=solmazsm&style=flat-square)
+
 ### Hi there
 <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png" width="50" height="50"></a>
 My name is Solmaz. I am a PhD student in Computer Science at the University of Washington, with research interests in vector databases, approximate nearest neighbor search, dynamic indexing, artificial intelligence, and machine learning systems.
