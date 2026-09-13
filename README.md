@@ -5,10 +5,6 @@ My name is Solmaz. I am a PhD student in Computer Science at the University of W
 
 I also have experience as a software developer, DevOps engineer, cloud engineer, full-stack developer, and AI Research Fellow. My work spans software systems, cloud infrastructure, AI evaluation, vector search, and data-intensive applications.
 
- <a href="https://htmlsolmazseyedmonirsep2020.blogspot.com/" alt="Blog">
-
-
-
 <hr>
 
 
@@ -34,6 +30,7 @@ I also have experience as a software developer, DevOps engineer, cloud engineer,
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <a href="https://htmlsolmazseyedmonirsep2020.blogspot.com/" alt="Blog">
 </p>
 <p align="center"> <!-- <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i> --> <p align="center"> <a href="https://www.linkedin.com/in/solmaz-seyedmonir/"><img src="https://github.com/solmazsm/solmazsm/blob/main/linkedin.png"></a> <a href="https://github.com/solmazsm" alt="GitHub"><img src="https://github.com/solmazsm/solmazsm/blob/main/github.png"></a> <a href="https://www.youtube.com/channel/UCDl6AuRGel1pU4MxvnLL2uw" alt="Youtube"><img src="https://github.com/solmazsm/solmazsm/blob/main/youtube.png"></a> <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/code-line.png"></a> <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png" width="25" height="25"></a> </p>
 
