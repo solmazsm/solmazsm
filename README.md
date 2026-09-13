@@ -1,6 +1,18 @@
-### Hi there 👋
+### Hi there
 
 My name is Solmaz. I am a PhD student in Computer Science at the University of Washington, with research interests in vector databases, approximate nearest neighbor search, dynamic indexing, artificial intelligence, and machine learning systems.
+
+
+I also have experience as a software developer, DevOps engineer, cloud engineer, full-stack developer, and AI Research Fellow. My work spans software systems, cloud infrastructure, AI evaluation, vector search, and data-intensive applications.
+
+ <a href="https://htmlsolmazseyedmonirsep2020.blogspot.com/" alt="Blog">
+
+
+
+<hr>
+
+
+![Profile views](https://komarev.com/ghpvc/?username=solmazsm)
 
 <p>
   <img src="https://img.shields.io/badge/PhD-University%20of%20Washington-4B2E83">
@@ -21,27 +33,10 @@ My name is Solmaz. I am a PhD student in Computer Science at the University of W
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=solmazsm&style=flat-square)
-
-### Hi there
-<a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png" width="50" height="50"></a>
-My name is Solmaz. I am a PhD student in Computer Science at the University of Washington, with research interests in vector databases, approximate nearest neighbor search, dynamic indexing, artificial intelligence, and machine learning systems.
-
-I also have experience as a software developer, DevOps engineer, cloud engineer, full-stack developer, and AI Research Fellow. My work spans software systems, cloud infrastructure, AI evaluation, vector search, and data-intensive applications.
-
- <a href="https://htmlsolmazseyedmonirsep2020.blogspot.com/" alt="Blog">
-
-
-
-<hr>
-
-
-![Profile views](https://komarev.com/ghpvc/?username=solmazsm)
-
-
  
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+<!--  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i> -->
 <p align="center">
    <a href="https://www.linkedin.com/in/solmaz-seyedmonir/"><img src="https://github.com/solmazsm/solmazsm/blob/main/linkedin.png"></a>
    <a href="https://github.com/solmazsm" alt="GitHub"><img src="https://github.com/solmazsm/solmazsm/blob/main/github.png"></a>
