@@ -35,21 +35,41 @@ I also have experience as a software developer, DevOps engineer, cloud engineer,
 ![Profile Views](https://komarev.com/ghpvc/?username=solmazsm&style=flat-square)
  
 <hr>
+
 <p align="center">
-<!--  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i> -->
-<p align="center">
-   <a href="https://www.linkedin.com/in/solmaz-seyedmonir/"><img src="https://github.com/solmazsm/solmazsm/blob/main/linkedin.png"></a>
-   <a href="https://github.com/solmazsm" alt="GitHub"><img src="https://github.com/solmazsm/solmazsm/blob/main/github.png"></a>
-  <a href="https://www.youtube.com/channel/UCDl6AuRGel1pU4MxvnLL2uw" alt="Youtube"><img src="https://github.com/solmazsm/solmazsm/blob/main/youtube.png"></a>
-  <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/code-line.png"></a>
- <a href="https://solmazsm.github.io/develop/" alt="Develop"><img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png" width="25" height="25"></a>
+  <img src="https://img.shields.io/badge/PhD-University%20of%20Washington-4B2E83">
+  <img src="https://img.shields.io/badge/Research-Vector%20Search-blue">
+  <img src="https://img.shields.io/badge/Database-Vector%20Databases-green">
+  <img src="https://img.shields.io/badge/AI-Machine%20Learning-orange">
 </p>
-  
+
+<p align="center">
+  <!-- <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i> -->
+
+  <a href="https://www.linkedin.com/in/solmaz-seyedmonir/">
+    <img src="https://github.com/solmazsm/solmazsm/blob/main/linkedin.png">
+  </a>
+
+  <a href="https://github.com/solmazsm" alt="GitHub">
+    <img src="https://github.com/solmazsm/solmazsm/blob/main/github.png">
+  </a>
+
+  <a href="https://www.youtube.com/channel/UCDl6AuRGel1pU4MxvnLL2uw" alt="Youtube">
+    <img src="https://github.com/solmazsm/solmazsm/blob/main/youtube.png">
+  </a>
+
+  <a href="https://solmazsm.github.io/develop/" alt="Develop">
+    <img src="https://github.com/solmazsm/solmazsm/blob/main/code-line.png">
+  </a>
+
+  <a href="https://solmazsm.github.io/develop/" alt="Develop">
+    <img src="https://github.com/solmazsm/solmazsm/blob/main/paint.png" width="25" height="25">
+  </a>
 </p>
 
 
 <!--
-
+<!--  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i> -->
 **solmazsm/solmazsm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
