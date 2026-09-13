@@ -12,9 +12,6 @@ I also have experience as a software developer, DevOps engineer, cloud engineer,
   <img src="https://img.shields.io/badge/Research-Vector%20Search-blue">
   <img src="https://img.shields.io/badge/Database-Vector%20Databases-green">
   <img src="https://img.shields.io/badge/AI-Machine%20Learning-orange">
-</p>
-
-<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=solmazsm&label=Profile%20Views&style=flat-square"
     alt="Profile Views"
